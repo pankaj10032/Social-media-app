@@ -1,7 +1,5 @@
 # [MERN Social App](https://socialyuva.vercel.app/)
 
-![image](https://github.com/deepaksuthar40128/reactHost/assets/92250394/2683e55a-6bc2-4201-a021-d160cd3a4c31)
-
 ## Description
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) social app that allows users to connect and share content with each other. It provides features such as public key authentication, AWS S3 integration for image storage, and utilizes MongoDB with connect-mongo-session for session management.
